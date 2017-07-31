@@ -33,6 +33,7 @@ Gera uma lista de nomes de servidores que trabalham numa especifica lotação da
 
 Converte todos os dados baixados para um txt, que será usado na análise dos dados da câmara.
 
+OBS: para gerar só os arquivos necessários na análise, basta executar `remuneracao_deputados_ano.sh` (remuneracao deputados) e `remuneracao_outros_servidores_ano.sh` (para outros servidores da camara). Além do `sqls_txt.py` para conseguir todos os dados unidos.
 
 ## Crawler e scrapping dos dados do senado federal
 
