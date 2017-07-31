@@ -65,4 +65,8 @@ OBS: As informaçes que serão baixadas serão apenas do mês e ano do cookie qu
 
 ### convert_dir_to_csv.py
 
+Esse script converte um arquivo com dados de remuneração de um servidor no formato .html em arquivo .csv. Caso haja alguma falha na conversão, então, a ID do servidor é salva em um arquivo de log.
+
 ### convert_html_to_csv.py
+
+* convert_dir_to_csv.py: Caso tenha diversos html's para diversos servidores para serem convertidos, então, pode-se utilizar esse script para realizar essa conversão em todos html's contidos em um diretório. Os arquivos que tiverem a conversão realizada com sucesso, terão as suas informações salvas em um arquio .csv. Os arquivos que apresentaram algum erro na conversão, terão os seus ID's salvo em um arquivo de log.
