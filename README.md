@@ -71,3 +71,9 @@ Esse script converte um arquivo com dados de remuneração de um servidor no for
 ### convert_html_to_csv.py
 
 * convert_dir_to_csv.py: Caso tenha diversos html's para diversos servidores para serem convertidos, então, pode-se utilizar esse script para realizar essa conversão em todos html's contidos em um diretório. Os arquivos que tiverem a conversão realizada com sucesso, terão as suas informações salvas em um arquio .csv. Os arquivos que apresentaram algum erro na conversão, terão os seus ID's salvo em um arquivo de log.
+
+### crawler-senado-folha.php
+
+* Script PHP para gerar scripts SQL para os inserts no banco de dados. Os arquivos gerados são separados por ano/mês.
+
+> Para sua correta execução, os arquivos CSV que serão utilizados pelo script PHP deve estar em um diretório chamado **csv**. Crie também um diretório chamada **sql** que irá receber os scripts SQL. Ambos os diretórios devem ser criados no mesmo nível do script PHP.
