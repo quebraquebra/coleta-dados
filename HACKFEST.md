@@ -12,10 +12,10 @@ Os dados estão disponíveis no [GitHub do projeto](https://github.com/quebraque
 
 ## Repositórios
 
-Os repositórios mais importantes para instalação e uso da nossa aplicação são:
+Os repositórios para instalação e uso da nossa aplicação são:
 
 1. coleta-dados: Repositório contendo scripts para coleta dos dados da folha da Câmara/Senado.
-2. ap: Repositório contendo o código da api que desenvolvemos para acesso dos dados da Câmara e Senado.
+2. api: Repositório contendo o código da api que desenvolvemos para acesso dos dados da Câmara e Senado.
 3. webapp: Repositório contendo o código do site principal da aplicação.
 4. blog: Repositório com as análises realizadas em cima dos dados coletados. Note que esse blog é independente do site principal. Sendo assim, não há dependência entre eles.
 
