@@ -8,6 +8,8 @@ Entendendo que o cidadão tem direito constitucional a essas informações, gara
 
 É essencial termos todas as remunerações abertas (e não uma a uma) para uma análise mais aprofundada da estrutura de cargos e salários para eventuais correções. Os cidadãos, que pagam os salários, têm o direito de saber quanto ganham os seus empregados.
 
+Este projeto nasceu a partir de uma ideia e provocação do economista Gil Castelo Branco, fundador e secretário-geral da Associação Contas Abertas e também membro da equipe do projeto, durante o Hackfest contra a Corrupção 2017: Tecnologia, Transparência e Cidadania.
+
 Os dados estão disponíveis no [GitHub do projeto](https://github.com/quebraquebra).
 
 ## Repositórios
