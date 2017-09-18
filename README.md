@@ -37,7 +37,7 @@ OBS: para gerar só os arquivos necessários na análise, basta executar `remune
 
 ## Crawler e scrapping dos dados do senado federal
 
-Entrado na pasta `senado_federal/scripts` você vai encontrar diferentes programas para acessar os dados do Senado Federal.
+Entrando na pasta `senado_federal/scripts` você vai encontrar diferentes programas para acessar os dados do Senado Federal.
 
 ### codigo.sh
 
