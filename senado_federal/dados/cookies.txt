@@ -1,6 +1,13 @@
-www.senado.gov.br	FALSE	/	FALSE	0	ASPSESSIONIDSCACCQBC	ELLLEIKCDPAMJGPBEPCFKJNG
-.www.senado.gov.br	TRUE	/	FALSE	0	ARRAffinity_WWW	0c30e0bf58648824b8eea204cf7abffc6ef107a5f0d486595df79886bb7f0096
-.senado.gov.br	TRUE	/	FALSE	1501405185	_gat	1
-.senado.gov.br	TRUE	/	FALSE	1501405186	_gat_global	1
-.senado.gov.br	TRUE	/	FALSE	1564477147	_ga	GA1.3.1453016925.1501405126
-.senado.gov.br	TRUE	/	FALSE	1501491547	_gid	GA1.3.570375183.1501405126
+# HTTP Cookie File for senado.leg.br by Genuinous @genuinous.
+# To download cookies for this tab click here, or download all cookies.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "http://www.senado.leg.br/transparencia/rh/servidores/remuneracao.asp?fcodigo=2921006&fvinculo=&mes=01/06/2018"
+#   2) curl --cookie cookies.txt "http://www.senado.leg.br/transparencia/rh/servidores/remuneracao.asp?fcodigo=2921006&fvinculo=&mes=01/06/2018"
+#   3) aria2c --load-cookies cookies.txt "http://www.senado.leg.br/transparencia/rh/servidores/remuneracao.asp?fcodigo=2921006&fvinculo=&mes=01/06/2018"
+#
+www.senado.leg.br	FALSE	/	FALSE	0	ASPSESSIONIDCSBTRSDQ	MBNBNFNAOFPCLFFLPGBLBBGO
+.www.senado.leg.br	TRUE	/	FALSE	0	ARRAffinity_WWW	0c30e0bf58648824b8eea204cf7abffc6ef107a5f0d486595df79886bb7f0096
+.senado.leg.br	TRUE	/	FALSE	1595702595	_ga	GA1.3.1928211034.1532630561
+.senado.leg.br	TRUE	/	FALSE	1532716995	_gid	GA1.3.247940551.1532630561
+.senado.leg.br	TRUE	/	FALSE	1532630620	_gat	1
+.senado.leg.br	TRUE	/	FALSE	1532630620	_gat_global	1
